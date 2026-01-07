@@ -1,7 +1,5 @@
 - Hi, I’m @Tybsmart94
-- I’m interested in game developement and Python
-- I’m currently learning Python and Pygame
-- I’m looking to collaborate on pygame projects
+- I’m interested in Data Engineering and Python
 - How to reach me tybsmart@icloud.com
 
 <!---
